@@ -6,19 +6,19 @@ import Image from "next/image";
 export default function LeadershipTeam() {
   const team = [
     {
-      name: "Sumara Baig",
-      role: "Co-Founder & President",
-      image: "/images/team/sumara.jpg", // Replace with your actual image paths
+      name: "Basit Manzoor",
+      role: "CEO",
+      image: "/images/team/basit.webp",
     },
     {
-      name: "Muneer Baig",
-      role: "Co-Founder & CEO",
-      image: "/images/team/muneer.webp",
+      name: "Umar Farooq",
+      role: "CTO",
+      image: "/images/team/umar.webp",
     },
     {
-      name: "Muatasim Baig",
-      role: "ServiceNow Delivery Lead",
-      image: "/images/team/muatasim.jpg",
+      name: "Arhaan",
+      role: "CTO",
+      image: "/images/team/arhaan.webp",
     },
   ];
 

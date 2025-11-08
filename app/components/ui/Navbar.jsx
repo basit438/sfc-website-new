@@ -15,14 +15,7 @@ const Header = () => {
         <div className="flex-shrink-0 z-10 pl-4 sm:pl-6 md:pl-8 lg:pl-12">
           {/* Link to homepage and display optimized logo from public/ */}
           <Link href="/">
-            <Image
-              src="/society4codelogo.png"
-              alt="Society4Code.com logo"
-              width={140}
-              height={36}
-              className="cursor-pointer"
-              priority
-            />
+            <span className="text-xl font-bold cursor-pointer">Society4Code.com</span>
           </Link>
         </div>
         
@@ -35,15 +28,15 @@ const Header = () => {
           <ul className="flex space-x-8">
                         
             {/* Navigation Items */}
-            {['Company', 'Expertise', 'Careers', 'Resources', 'Client'].map((item) => (
+            {['Company', 'Expertise', 'Careers', 'Contact'].map((item) => (
               <li key={item} className="relative group">
                 <Link 
                   href={`/${item}`}
                   className="text-white hover:text-white text-base font-medium transition duration-150 flex items-center"
                 >
                   {item} 
-                  {/* Add dropdown arrow for Expertise and Resources */}
-                  {(item === 'Expertise' || item === 'Resources') && (
+                  {/* Add dropdown arrow for Expertise */}
+                  {(item === 'Expertise') && (
                     <span className="ml-1 text-[0.6rem] inline-block pt-1">⌄</span>
                   )}
                 </Link>
@@ -55,7 +48,7 @@ const Header = () => {
         {/* 3. Contact Us Button (Extreme Right) */}
         <div className="hidden lg:block flex-shrink-0 z-10">
           <Button 
-            href="/contact"
+            href="/Contact"
             // Custom colors
             bgColor="bg-white" 
             hoverBgColor="hover:bg-gray-100" 

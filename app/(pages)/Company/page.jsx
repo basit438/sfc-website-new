@@ -13,6 +13,8 @@ import StatsSection from "./_sections/StatsSection";
 import CommunityImpact from "./_sections/Communityimpact";
 import LeadershipTeam from "./_sections/LeadershipTeam";
 import TechnicalCertifications from "./_sections/TechnicalCertifications";
+import TopIndustryCertifications from "./_sections/TopIndustryCertifications";
+import BussinessCertification from "./_sections/BussinessCertification";
 import OurServices from "./_sections/OurServices";
 
 function page() {
@@ -51,6 +53,7 @@ function page() {
        <StatsSection/>
        <OurServices/>
        <TechnicalCertifications/>
+       <TopIndustryCertifications/>
        <LeadershipTeam/>
        <CommunityImpact/>
       <TransformSection/>
