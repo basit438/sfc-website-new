@@ -1,12 +1,12 @@
 export const aboutData = {
   title: "WHO WE ARE",
-  heading: "Our Belief",
-  description: "At SYSUSA, we believe in creating a better, more connected world built on trust, integrity, and innovation. We help businesses modernize, secure, and grow through technology that empowers lasting success.",
+  heading: "Our Mission",
+  description: "At Society4Code.com, we are a team of passionate developers, designers, and AI specialists dedicated to building the future of technology. We partner with businesses to create custom software solutions, intelligent systems, and engaging digital experiences that drive growth and innovation.",
   beliefs: [
-    "Trust & Integrity",
-    "Purposeful Innovation",
-    "Digital Transformation",
-    "Agility & Excellence",
-    "Lasting Impact"
+    "Innovative Solutions",
+    "Collaborative Partnerships",
+    "Cutting-Edge Technology",
+    "Quality & Scalability",
+    "Client Success"
   ]
 };

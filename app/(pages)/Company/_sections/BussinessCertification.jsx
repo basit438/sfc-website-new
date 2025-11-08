@@ -23,7 +23,7 @@ export default function BusinessCertification() {
 
       {/* Intro paragraph */}
       <p className="max-w-4xl text-[#1A1A1A]/80 text-[18px] leading-[35px] font-inter font-[400] mb-16">
-        SYSUSA is at the forefront of leading changes and enabling IT modernization across industries
+        Society4Code.com is at the forefront of leading changes and enabling IT modernization across industries
         in the Public and the Private Sectors. Our team has created game-changing solutions that have
         enabled business transformation into high-performing, efficient, and resilient enterprises.
       </p>
@@ -37,7 +37,7 @@ export default function BusinessCertification() {
             Business Certification
           </h3>
           <p className="text-[#1A1A1A]/80 text-[18px] leading-[35px] font-normal mb-6 font-inter font-[400]">
-            SYSUSA prides itself in our unwavering commitment to excellence and industry-leading
+            Society4Code.com prides itself in our unwavering commitment to excellence and industry-leading
             standards. Our certifications set us apart and demonstrate our dedication to quality,
             innovation, and customer satisfaction.
           </p>

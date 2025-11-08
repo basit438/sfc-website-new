@@ -6,7 +6,7 @@ export default function CommunityImpact() {
   const impactPoints = [
     {
       title: "Our Ethos",
-      description: "Making a positive impact is part of SYSUSA's technical DNA."
+      description: "Making a positive impact is part of Society4Code.com's technical DNA."
     },
     {
       title: "Purpose in Action",

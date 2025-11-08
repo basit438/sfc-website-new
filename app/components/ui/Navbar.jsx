@@ -16,8 +16,8 @@ const Header = () => {
           {/* Link to homepage and display optimized logo from public/ */}
           <Link href="/">
             <Image
-              src="/sysusalogo.png"
-              alt="SYSUSA logo"
+              src="/society4codelogo.png"
+              alt="Society4Code.com logo"
               width={140}
               height={36}
               className="cursor-pointer"

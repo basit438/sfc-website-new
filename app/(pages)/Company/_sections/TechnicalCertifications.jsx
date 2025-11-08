@@ -34,7 +34,7 @@ export default function TechnicalCertifications() {
 
       {/* Paragraph */}
       <p className="text-gray-600 mt-4 text-[16px] font-inter font-[400] leading-7 max-w-3xl">
-        SYSUSA prides itself in our unwavering commitment to excellence and industry-leading standards.
+        Society4Code.com prides itself in our unwavering commitment to excellence and industry-leading standards.
         Our certifications set us apart and demonstrate our dedication to quality, innovation,
         and customer satisfaction.
       </p>

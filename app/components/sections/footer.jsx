@@ -89,7 +89,7 @@ export default function Footer() {
               <div className="flex gap-3">
               <Image src={"/location.svg"} alt="logo" width={20} height={20} />
                 <div>
-                  <p className="font-semibold text-sm mb-1">SYSUSA Inc. Virginia</p>
+                  <p className="font-semibold text-sm mb-1">Society4Code.com Inc. Virginia</p>
                   <p className="text-gray-300 text-sm leading-relaxed">
                     8565 Sudley Road, Suite C,<br />Manassas, VA 20110
                   </p>
@@ -202,7 +202,7 @@ export default function Footer() {
       {/* Mini Copyright Footer */}
 <div className="w-full font-inter text-white" style={{ background: '#112550' }}>
   <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between text-gray-400 text-sm px-6 py-4">
-    <p>© {new Date().getFullYear()} SYSUSA Inc. All rights reserved.</p>
+    <p>© {new Date().getFullYear()} Society4Code.com Inc. All rights reserved.</p>
     <div className="flex items-center gap-4 mt-2 md:mt-0">
       <Link href="/privacy-policy" className="hover:text-white transition-colors">
         Privacy Policy
