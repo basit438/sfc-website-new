@@ -14,7 +14,7 @@ export default function GridBackgroundSection() {
       {/* Left Side - Heading */}
       <div className="font-syne text-center lg:text-left mb-8 lg:mb-0 lg:w-1/2">
         <h1 className="text-white text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-medium leading-tight mb-4">
-          Ready to transform your business with SYSUSA?
+          Ready to transform your business with Society4Code.com?
         </h1>
       </div>
 

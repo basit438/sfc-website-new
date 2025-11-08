@@ -11,13 +11,10 @@ import TransformSection from "@/app/components/sections/TransformSection";
 import { Stats } from "fs";
 import StatsSection from "./_sections/StatsSection";
 import CommunityImpact from "./_sections/Communityimpact";
-import OurPartners from "./_sections/OurPartners";
 import LeadershipTeam from "./_sections/LeadershipTeam";
-import { Bus } from "lucide-react";
-import BussinessCertification from "./_sections/BussinessCertification";
-import TopIndustryCertifications from "./_sections/TopIndustryCertifications";
 import TechnicalCertifications from "./_sections/TechnicalCertifications";
-import ServiceNowCertifications from "./_sections/ServiceNowCertifications";
+import OurServices from "./_sections/OurServices";
+
 function page() {
   return (
     <>
@@ -52,13 +49,9 @@ function page() {
         <Journey/>
        <CoreValues/>
        <StatsSection/>
-       <BussinessCertification/>
+       <OurServices/>
        <TechnicalCertifications/>
-       
-       <ServiceNowCertifications/>
-       <TopIndustryCertifications/>
        <LeadershipTeam/>
-       <OurPartners/>
        <CommunityImpact/>
       <TransformSection/>
        <Footer/>

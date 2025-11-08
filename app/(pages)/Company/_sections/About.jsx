@@ -29,7 +29,7 @@ export default function WhoWeAre() {
             </h3>
 
             <p className="font-inter font-[400] text-gray-600 text-base sm:text-lg leading-relaxed mb-6 sm:mb-8 text-center sm:text-left">
-              At SYSUSA, we believe in creating a better, more connected world
+              At Society4Code.com, we believe in creating a better, more connected world
               built on trust, integrity, and innovation. We help businesses
               modernize, secure, and grow through technology that empowers
               lasting success.
@@ -64,7 +64,7 @@ export default function WhoWeAre() {
             <div className="rounded-2xl overflow-hidden shadow-xl">
               <Image
                 src="/aboutimages/about.jpg"
-                alt="Team collaboration meeting at SYSUSA office"
+                alt="Team collaboration meeting at Society4Code.com office"
                 width={600}
                 height={400}
                 className="w-full h-auto object-cover"
