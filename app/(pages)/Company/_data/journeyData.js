@@ -7,29 +7,29 @@ export const journeyData = {
   },
   milestones: [
     {
-      year: '2000',
-      title: 'Founded by Sumara & Muneer Baig',
-      description: 'SYSUSA began with a passion for solving mission-critical challenges through insight and innovation.'
-    },
-    {
       year: '2010',
-      title: 'Build trust with public & private clients',
-      description: 'Established ourselves as a reliable transformation partner across sectors.'
+      title: 'Founded with a Vision',
+      description: 'Society4Code.com was founded with the goal of creating innovative software solutions that solve real-world problems.'
     },
     {
       year: '2015',
-      title: 'Expanded expertise in ServiceNow',
-      description: 'Deepened our technical capabilities and service offerings.'
+      title: 'Expanded into AI & Machine Learning',
+      description: 'We expanded our services to include AI and machine learning, helping businesses leverage the power of intelligent systems.'
     },
     {
-      year: '2020',
-      title: 'Achieved Elite Partner Status',
-      description: 'Recognized for excellence in delivering transformational solutions.'
+      year: '2018',
+      title: 'Launched our Mobile App Division',
+      description: 'We launched a dedicated mobile app development division to meet the growing demand for mobile solutions.'
+    },
+    {
+      year: '2022',
+      title: 'Opened our Design Studio',
+      description: 'We opened a design studio to provide our clients with comprehensive design services, from branding to UI/UX.'
     },
     {
       year: '2025',
       title: 'Global Expansion & Innovation',
-      description: 'Expanded our reach internationally while pioneering new technologies.'
+      description: 'We continue to expand our reach internationally while pioneering new technologies and solutions.'
     }
   ]
 };

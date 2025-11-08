@@ -21,7 +21,7 @@ export default function TopIndustryCertifications() {
           </h2>
         </div>
         <p className="text-[#1A1A1A]/80 text-[18px] leading-[35px] pt-4 max-w-2xl font-inter font-[400]">
-          SYSUSA is proud to announce its ISO and CMMI certifications, reflecting our commitment
+          Society4Code.com is proud to announce its ISO and CMMI certifications, reflecting our commitment
           to industry-leading standards, quality management, and continuous process improvement.
         </p>
       </div>

@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "SysUSA",
+  title: "Society4Code.com",
   description: "ServiceNow and Cybersecurity Solutions",
 };
 
